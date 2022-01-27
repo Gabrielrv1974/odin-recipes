@@ -1,5 +1,10 @@
 /*style.css*/
 
+* {
+    padding: 10px;
+    background-color:#ffff99 ;
+}
+
 h1 {
     font-size: 30px;
     font-family: 'Times New Roman', Times, sans-serif;
@@ -10,6 +15,7 @@ h1 {
 img {
     height: auto;
     width: 200px;
+    display: flex;
 }
 
 h3 {
