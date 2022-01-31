@@ -1,8 +1,11 @@
 /*style.css*/
 
 html {
+    padding: 5px;
     background-color:#ffff99 ;
-    padding: 10px;
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 h1 {

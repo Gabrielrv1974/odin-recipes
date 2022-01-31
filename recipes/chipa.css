@@ -1,5 +1,12 @@
 /*style.css*/
 
+html {
+    padding: 5px;
+    background-color:#ffff99 ;
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 h1 {
     font-size: 30px;
     font-family: 'Times New Roman', Times, sans-serif;
@@ -33,9 +40,3 @@ li {
     text-align: justify;
 }
 
-* {
-    background-color:#ffff99 ;
-    border: ;
-    padding: 10px;
-    
-}
